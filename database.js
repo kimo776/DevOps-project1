@@ -1,4 +1,4 @@
-//database.js
+//database.jseee
 const sqlite3 = require('sqlite3').verbose();
 
 // Connect to a database (creates the file if it does not exist)
